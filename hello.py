@@ -181,6 +181,6 @@
 2025年11月
 PC端重新尝试配置github，一是通过修改host提升github访问成功率，要注意，修改后要刷新dns缓存，通过cmd运行ipconfig /flushdns 命令即可。测试有效
 
-
+111
 
 '''
